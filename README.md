@@ -1,6 +1,6 @@
 # Prosper-Loan-Data-Analysis
-## by (your name here)
-MURHULA BYABUSHI CHRISTIAN
+## by (MURHULA BYABUSHI CHRISTIAN)
+
 ## Dataset
 
  Prosper-Loan dataset contains 113937 entries of loan with113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. 
