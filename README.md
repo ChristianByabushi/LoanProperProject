@@ -10,7 +10,7 @@ During our exploratory and axplanatory, we analyse each selected varibales parti
 We noticed after our explaratory some isssues of variables, such: null values, order and fixed it where it's necessary lest it affects our researching. 
 
 ## Summary of Findings
-The purpose of this work were to analyse what kind variables influence loans and borrows.  
+The purpose of this work was to analyze what kind of variables influence lending and borrowing.  
 
 When we analyse each variable its self where necessary, that led us tho to question and repond to the questions follows:
 -  How much loans are frenquently delivred by borrowers ?
